@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+
+    color: orange;
+
+}
+
+section{
+    display: flex;
+    margin-bottom: 100px;;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-width img{
+    width: 400px;
+    height: 400px;
+    border-radius: 360px;
+
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner{
+    background-image: url(images/pngtree-vector-programming-icon-png-image_757435.jpg);
+    background-repeat: no-repeat;
+    background-size: 5%;
+    
+}
